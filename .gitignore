@@ -1,6 +1,10 @@
-bin/
-target/
+bin
+target
 build/
 .classpath
 .project
 .springbeans
+.settings
+src/main/webapp/META-INF
+.idea
+*.iml
